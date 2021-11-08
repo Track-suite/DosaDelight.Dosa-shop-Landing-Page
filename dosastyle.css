@@ -73,3 +73,22 @@ nav{
 .controls img{
     width: 800px;
 }
+.search img{
+    width: 90px;
+}
+.search{
+    position: absolute;
+    right: 12%;
+
+    transform: translateY(10%);
+}
+.btn{
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 35px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+    border-radius: 20px;
+   
+}
+.log {background-color: #8DC73F;} /* Green */
+.log:hover {background-color: #46a049;}

@@ -196,6 +196,44 @@ p{
     transform: translateY(1%);
 }
 #no2{
+    color: #555353;
+}
+#head1{
+    text-align: center;
+    padding-top: 10%;
+    letter-spacing: 4px;
     color: #8DC73F;
+    font-weight: bold;
+}
+#head2{
+    text-align: center;
+    padding-top: 0%;
+    font-size: 60px;
+    color: #3E3D3D;
+    font-weight: bold;
+}
+#h2{
+    text-align: center;
+    padding-top: 0%;
+    font-size: 60px;
+    color: #3E3D3D;
+    font-weight: bold;
+}
+#box1{
+    height: 28px;
+    width: 28px;
+    padding-left: 20%;
+
+}
+#head3 li{
+    display: inline-block;
+    margin: 0px 80px;
+    padding-left: 7%;
+   
+}
+#box2{
+    height: 22px;
+    width: 23px;
+  
 }
     

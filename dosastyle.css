@@ -49,8 +49,8 @@ nav{
     width: 10px;
     height: 10px;
     position: absolute;
-    top: 50%;
-    right: 90%;
+    top: 75%;
+    right: 30%;
     transform: translateY(100%);
    
 }
@@ -59,7 +59,7 @@ nav{
     height: 10px;
     position: absolute;
     top: 0%;
-    right: 200%;
+    padding-left: 0%;
     border-radius: 50%;
     background: #F9460B;
     
@@ -235,5 +235,32 @@ p{
     height: 22px;
     width: 23px;
   
+}
+.aboutimg img{
+    height: 336px;
+    width: 297px;
+    margin-top: 20%;
+    
+
+}
+.aboutimg{
+    display: flex;
+    justify-content: center;
+}
+.aboutimg li{
+    list-style: none;
+    display: inline-block;
+    margin: 40px 20px;
+    padding-inline-start: 100px;
+  
+}
+#box4{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    padding-left: 70%;
+    padding-top: 21%;
+
+
 }
     

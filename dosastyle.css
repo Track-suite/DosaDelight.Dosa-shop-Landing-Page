@@ -240,19 +240,18 @@ p{
     height: 336px;
     width: 297px;
     margin-top: 20%;
-    
-
 }
 .aboutimg{
     display: flex;
     justify-content: center;
+    position: absolute;
+    padding-left: 5%;
+    
 }
 .aboutimg li{
     list-style: none;
     display: inline-block;
-    margin: 40px 20px;
-    padding-inline-start: 100px;
-  
+    padding: 80px;
 }
 #box4{
     width: 16px;
@@ -260,7 +259,28 @@ p{
     position: absolute;
     padding-left: 70%;
     padding-top: 21%;
+}
 
-
+#chef{
+    width: 682px;
+    height: 686px;
+    position: absolute;
+    padding-top: 40%;
+    padding-left: 10%;
+}
+#rev1{
+    width: 234px;
+    height: 150px;
+    position: absolute;
+    padding-top: 78%;
+    padding-left: 35%;
+}
+#textrev1{
+    text-align: center;
+    padding-top: 50%;
+    padding-left: 35%;
+    letter-spacing: 4px;
+    color: #8DC73F;
+    font-weight: bold;
 }
     
